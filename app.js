@@ -1,16 +1,4 @@
-/* eslint-disable prettier/prettier */
-/* eslint-disable import/extensions */
-/* eslint-disable prettier/prettier */
-/* eslint-disable import/newline-after-import */
-/* eslint-disable prettier/prettier */
-/* eslint-disable import/no-extraneous-dependencies */
-/* eslint-disable import/order */
-/* eslint-disable prettier/prettier */
-/* eslint-disable node/no-missing-require */
-/* eslint-disable prettier/prettier */
-
-// eslint-disable-next-line import/extensions, import/no-unresolved
-// eslint-disable-next-line no-unused-vars
+/*eslint-disable*/
 const path=require("path")
 const express = require('express');
 const app = express();
